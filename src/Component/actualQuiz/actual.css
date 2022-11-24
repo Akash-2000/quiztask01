@@ -1,0 +1,41 @@
+.questions{
+    border-bottom:1px solid grey;
+    padding: 10px;
+}
+
+.namebox2{
+    border: 10px solid white;
+        border-radius: 15px;
+        width: 70%;
+        background-image: linear-gradient(to right, white, white);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+ul {
+    list-style: none;
+    padding-inline-start: 0px;
+}
+li{
+   background-color:black;
+   text-align:center;
+   width: 35%;
+   font-size: 19px;
+   color:white;
+   border-radius: 20px;
+    padding:10px;
+
+}
+label{
+    font-weight: bolder;
+}
+.buttonss{
+    padding: 10px;
+    font-weight: bolder;
+    border-radius: 8px;
+    color: aliceblue;
+    background-color:black;
+}
+li:hover{
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
